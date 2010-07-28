@@ -1,0 +1,34 @@
+ADC:
+    statistics on a GND and constant (1.5v?) measurement
+    comparison of static voltages vs. a multimeter
+
+GENERAL NOISE:
+    measurements 
+        - scope GND, Vcc, analog, USB data, GPIO output
+        - ADC read statistic
+    cases
+        - GPIO toggling
+        - USB read/write
+        - USART read/write
+        - nothing
+        - PWM output
+
+BATTERY:
+    reverse voltage
+
+POWER:
+    lowest voltage cutout
+    power consumption (max)
+    reverse 5v on input
+
+PWM:
+    test one pin with servo
+
+OTHER:
+    serial bootloader button
+    button functionality (both)
+    measure oscillator frequency at various voltages
+
+JTAG:
+    basic flash/debug session
+

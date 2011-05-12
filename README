@@ -1,0 +1,11 @@
+This file contains the hardware design files for the LeafLabs Maple
+(it also currently contains the design files for the Maple Mini; these
+really should live in their own repository).
+
+Looking for something else?
+
+* The source code for the libmaple library used for LeafLabs devices
+  is available at https://github.com/leaflabs/libmaple
+
+* The source code for the Maple IDE used to develop for LeafLabs
+  devices is available at https://github.com/leaflabs/maple-ide
